@@ -1,0 +1,20 @@
+Fitter Status : Successful - Fri Nov 04 13:21:26 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : ov7670_camera
+Top-level Entity Name : top_level
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 219 / 41,910 ( < 1 % )
+Total registers : 225
+Total pins : 35 / 314 ( 11 % )
+Total virtual pins : 0
+Total block memory bits : 1,576,960 / 5,662,720 ( 28 % )
+Total RAM Blocks : 193 / 553 ( 35 % )
+Total DSP Blocks : 0 / 112 ( 0 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )

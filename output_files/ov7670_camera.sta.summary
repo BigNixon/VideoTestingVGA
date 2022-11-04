@@ -1,0 +1,181 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'ov7670_pclk'
+Slack : -6.547
+TNS   : -31156.563
+
+Type  : Slow 1100mV 100C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : -4.524
+TNS   : -876.187
+
+Type  : Slow 1100mV 100C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 11.977
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.314
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'ov7670_pclk'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.421
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'ov7670_pclk'
+Slack : -2.636
+TNS   : -33352.675
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.595
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'clk100'
+Slack : 9.944
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.585
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Setup 'ov7670_pclk'
+Slack : -5.981
+TNS   : -28649.336
+
+Type  : Slow 1100mV -40C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : -4.651
+TNS   : -900.782
+
+Type  : Slow 1100mV -40C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 12.075
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'ov7670_pclk'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'ov7670_pclk'
+Slack : -2.636
+TNS   : -33221.783
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.570
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'clk100'
+Slack : 9.968
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.566
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Setup 'ov7670_pclk'
+Slack : -3.774
+TNS   : -15322.292
+
+Type  : Fast 1100mV 100C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : -1.782
+TNS   : -343.203
+
+Type  : Fast 1100mV 100C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 15.696
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.165
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'ov7670_pclk'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.199
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'ov7670_pclk'
+Slack : -2.174
+TNS   : -26657.662
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.892
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'clk100'
+Slack : 9.646
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.889
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Setup 'ov7670_pclk'
+Slack : -2.756
+TNS   : -11033.501
+
+Type  : Fast 1100mV -40C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : -1.706
+TNS   : -328.973
+
+Type  : Fast 1100mV -40C Model Setup 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 16.201
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'ov7670_pclk'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'ov7670_pclk'
+Slack : -2.174
+TNS   : -26665.252
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~FRACTIONAL_PLL|vcoph[0]'
+Slack : 1.666
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll1~PLL_OUTPUT_COUNTER|divclk'
+Slack : 8.897
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'clk100'
+Slack : 9.634
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'your_instance_name|altpll_component|auto_generated|generic_pll2~PLL_OUTPUT_COUNTER|divclk'
+Slack : 18.896
+TNS   : 0.000
+
+------------------------------------------------------------
